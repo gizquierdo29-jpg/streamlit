@@ -1,0 +1,14 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+.vscode/
+
+# Streamlit cache
+.streamlit/cache/
